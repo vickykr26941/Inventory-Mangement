@@ -151,3 +151,7 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True 
 EMAIL_HOST_USER = 'vickykr26941@gmail.com'
 EMAIL_HOST_PASSWORD = 'vickykr123@'
+
+
+# admin user name : Admin 
+# password        : 
